@@ -57,6 +57,7 @@
 
 **Rough Layout:**
 [1] [2] [3]
+
 [4] [5] [6]
 [7] [8] [9]
 [BCE] [0] [CE]
@@ -104,7 +105,6 @@ sampleGeoJSON.js
 App.jsx
 main.jsx
 index.css
-
 ---
 
 ## 5. Data Structures
