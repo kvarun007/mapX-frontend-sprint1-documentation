@@ -57,6 +57,7 @@
 
 **Rough Layout:**
 [1] [2] [3]
+
 [4] [5] [6]
 [7] [8] [9]
 [BCE] [0] [CE]
@@ -94,6 +95,7 @@
 
 ```bash
 src/
+<<<<<<< HEAD
   components/
     MapView.jsx
     LeftPanel.jsx
@@ -106,6 +108,21 @@ src/
   main.jsx
   index.css
 ```
+
+=======
+components/
+MapView.jsx
+LeftPanel.jsx
+RightPanel.jsx
+Timeline.jsx
+YearKeypadModal.jsx
+data/
+sampleGeoJSON.js
+App.jsx
+main.jsx
+index.css
+
+> > > > > > > decc1474055014bccb827bdbad764dfc1283f13e
 
 ---
 
