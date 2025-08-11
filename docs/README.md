@@ -92,18 +92,20 @@
 
 ## 4. File/Folder Structure
 
+```bash
 src/
-components/
-MapView.jsx
-LeftPanel.jsx
-RightPanel.jsx
-Timeline.jsx
-YearKeypadModal.jsx
-data/
-sampleGeoJSON.js
-App.jsx
-main.jsx
-index.css
+  components/
+    MapView.jsx
+    LeftPanel.jsx
+    RightPanel.jsx
+    Timeline.jsx
+    YearKeypadModal.jsx
+  data/
+    sampleGeoJSON.js
+  App.jsx
+  main.jsx
+  index.css
+```
 
 ---
 
